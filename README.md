@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm [Felipe!](https://prvst.github.io) 👋
+
+- 🔭 I’m currently working on [computational proteomics](https://www.nesvilab.org/)
+- 🏢 I'm currently working at **University of Michigan**
+- ⚙️ I use daily: `.go`, `.R`
+- 🌱 I’m currently learning Omics data integration
+- 💬 Ask me about Bioinformatics & Proteomics
+- 📫 How to reach me: [here](https://prvst.github.io)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a Caldari merc. pilot in Eve Online.
 
 <!--
-**prvst/prvst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prvst&count_private=true&show_icons=true&include_all_commits=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prvst&count_private=true&langs_count=10&layout=compact)](https://github.com/prvst/github-readme-stats)
