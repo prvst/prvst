@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on [computational proteomics](https://www.nesvilab.org/)
 - 🏢 I'm currently working at **University of Michigan**
 - ⚙️ I use daily: `.go`, `.R`
-- 🌱 I’m currently learning Omics data integration
+- 🌱 I’m currently learning more about Data Science
 - 💬 Ask me about Bioinformatics & Proteomics
-- 📫 How to reach me: [here](https://prvst.github.io)
+- 📫 How to reach me: Visit my [website](https://prvst.github.io)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a Caldari merc. pilot in Eve Online.
 
