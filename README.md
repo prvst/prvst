@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [computational proteomics](https://www.nesvilab.org/)
 - 🏢 I'm currently working at **University of Michigan**
-- ⚙️ I use daily: `.go`, `.R`
+- ⚙️ I use daily: `.go`, `.R`, `.py`
 - 🌱 I’m currently learning more about data visualization
 - 💬 Ask me about Bioinformatics & Proteomics
 - 📫 How to reach me: Visit my [website](https://prvst.github.io)
