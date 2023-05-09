@@ -1,9 +1,9 @@
 ### Hi there, I'm [Felipe!](https://prvst.github.io) 👋
 
-- 🔭 I’m currently working on [computational proteomics](https://www.nesvilab.org/)
-- 🏢 I'm currently working at **University of Michigan**
+- 🔭 I’m currently working on computational proteomics
+- 🏢 I'm currently working at **Genentech**
 - ⚙️ I use daily: `.go`, `.R`, `.py`
-- 🌱 I’m currently learning more about data visualization
+- 🌱 I’m currently learning more about single-cell proteomics & data visualization
 - 💬 Ask me about Bioinformatics & Proteomics
 - 📫 How to reach me: Visit my [website](https://prvst.github.io)
 - 😄 Pronouns: he/him
